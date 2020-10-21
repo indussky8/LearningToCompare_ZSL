@@ -61,7 +61,7 @@ class RelationNetwork(nn.Module):
 
 def main():
     # step 1: init dataset
-    print("init dataset")
+    print("init dataset first")
     
     dataroot = './data'
     dataset = 'CUB1_data'
